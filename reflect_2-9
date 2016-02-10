@@ -1,0 +1,20 @@
+git config sets signature for everything pushed to github 
+git init sets up new repository 
+really easy stuff
+
+set up package manager “brew” and “npm” and maybe another one… and how these stack up against each other in priority, e.g. our local bin vs. the pre-installed apple packages
+
+command line programs like “echo”, “history”, “less” 
+
+set up our own deployment environment “Surge” 
+
+looked at environment variables and how they are generally configured
+
+learned to pipe the output of one program to another using the “|” symbol.
+for creating a new file or overwriting one with the same name use “>”. to append information to a specific file use “>>”
+
+flags can be looked up for a command using the “man” command “man [command]” 
+
+commands can be shrunk to shorthand forms 
+
+

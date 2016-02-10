@@ -1,3 +1,5 @@
+#git hub *is like* so graaat
+
 open notes.txt
 #pipes history program data to sort program which appends the sorted data to a new file called notes.txt
 history | sort > notes.txt
