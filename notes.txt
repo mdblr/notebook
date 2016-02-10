@@ -1,0 +1,151 @@
+open notes.txt
+#pipes history program data to sort program which appends the sorted data to a new file called notes.txt
+history | sort > notes.txt
+#cat program reads data and lists in Terminal
+cat notes.txt
+#shortcut for ls -lh
+ll
+man cat
+history
+rm notes.txt
+touch notes.txt
+notebook/
+ls
+.
+mkdir notebook
+2016/Galvanize/week_1/
+cd Projects/
+~
+man rmdir
+man rm
+q
+man rm(1)
+man open
+man pwd
+man cd
+/
+cd coewa
+..
+cd bin
+cd sbin
+ls -l
+open .DS_Store
+open .bash_history
+ls -a
+#man program (~manual~) lists program description and subcommands the user can run
+man ls
+ls .
+pwd
+cd Users/mdblr/
+cd /
+ls -lh
+open /
+cd mdblr
+cd Users
+tree -L 1
+tree -aL 1
+man tree
+tree -L 2
+brew install tree
+echo $EDITOR
+echo $EDITO
+echo $USER
+echo $PATH
+echo atom
+echo ~
+atom config.fish
+cd fish
+cd open
+cd .config
+man
+nab
+ls man
+ls -lt
+ls -rt
+ls -t
+atom /Users/mdblr/Desktop/Galvanize/prework/
+open /Users/mdblr/Desktop/Galvanize/
+open .
+which whoami
+whoami
+git commit -m "Establishing CNAME"
+git add .
+open http://theDobblerEffect.surge.sh
+surge
+open http://wcrusher.surge.sh
+surge
+git add CNAME
+touch CNAME
+git commit -m "index now in place"
+git status
+git add .
+open index.html
+atom .
+touch index.html
+git branch
+git init
+cd wcrusher.surge.sh/
+mkdir wcrusher.surge.sh
+cd week_1
+mkdir week_1
+cd Galvanize
+mkdir Galvanize
+cd 2016
+mkdir 2016
+mkdir ~/Projects
+surge -V
+npm install -g surge
+rm ~/Desktop/test.js
+atom ~/Desktop/test.js
+which atom
+which
+brew install atom
+atom
+node atom ~/Desktop/test.js
+atom ~/Desktop/test.js
+node
+node -v
+brew install node
+git config --global user.name 'Max Dobler'
+curl -fsSL https://git.io/vgqFH | sh
+git config --global user.email 'mdblr@outlook.com'
+git config --global user.name 'theDobblerEffect'
+git --version
+which git
+brew install git
+which echo
+shout $PATH
+atom ~/.config/fish/config.fish
+brew info
+fish_update_completions
+curl -fsSL https://git.io/vgqFU | ruby
+cd ~
+cd prework/
+cd Desktop/
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+git push origin Newest
+git commit -m "Redundant line in js file clean up"
+git commit -m "Redundant line in js file is now a comment"
+git commit -m "Redundant line in js file is not a comment"
+git checkout -b "Newest"
+git remote -v
+git remote add upstream https://github.com/theDobblerEffect/prework.git
+cd prework
+n
+no
+git cd Galvanize
+cd ..
+git clone https://github.com/theDobblerEffect/prework.git
+rm -rf prework
+rmdir prework
+delete prework
+rm prework
+ls -G
+uname
+cd Pictures
+cd
